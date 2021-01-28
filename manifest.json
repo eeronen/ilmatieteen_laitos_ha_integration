@@ -1,0 +1,9 @@
+{
+    "domain": "ilmatieteen_laitos_ha_integration",
+    "name": "Ilmatieteen laitos weather data",
+    "version": "0.0.1",
+    "documentation": "https://github.com/eeronen/ilmatieteen_laitos_ha_integration",
+    "dependencies": [],
+    "codeowners": ["@eeronen"],
+    "requirements": []
+}
